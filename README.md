@@ -1,23 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=230&section=header&text=Oliullah%20Bhuiyan&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Web%20Developer%20%7C%20SaaS%20Specialist&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+### Hey there 👋 I'm
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+Production-Grade+SaaS+Products+for+Global+Clients;3%2B+Years+%7C+4%2B+Live+SaaS+Apps+%7C+Clients+in+5+Countries" alt="Typing SVG" /></a>
+# Oliullah Bhuiyan
 
-<br/>
+**Full-Stack Web Developer · SaaS Specialist**
 
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-oliullahbhuiyan.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.oliullahbhuiyan.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliullahbhuiyan/)
-[![Email](https://img.shields.io/badge/Email-mdolihasan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdolihasan@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+Production-Grade+SaaS+for+Global+Clients;3%2B+Years+%7C+4+Live+Apps+%7C+Clients+in+5+Countries" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=oliullah05&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/oliullah05?style=for-the-badge&color=6366f1&labelColor=1e1e2e&logo=github)](https://github.com/oliullah05?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oliullahbhuiyan.com-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://www.oliullahbhuiyan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliullahbhuiyan/)
+[![Email](https://img.shields.io/badge/Email-mdolihasan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdolihasan@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=oliullah05&style=flat-square&color=6366f1&label=Profile+Views)
 
 </div>
 
@@ -217,7 +213,5 @@ I'm actively seeking **full-time remote opportunities** with international compa
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=120&section=footer" width="100%" />
-
+  <sub>⭐ From <a href="https://github.com/oliullah05">oliullah05</a> — Open to remote opportunities worldwide</sub>
 </div>
