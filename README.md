@@ -192,7 +192,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oliullah05&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oliullah05&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" />
 </div>
 
 ---
