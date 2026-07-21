@@ -25,22 +25,18 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const oliullah = {
-    role: "Full-Stack Web Developer",
-    experience: "3+ years",
-    focus: "Production-Grade SaaS Applications",
-    currentCompany: "Umma Foundation (Brooklyn, NY, USA)",
-    previousCompanies: ["Dmarclytics (London, UK)", "Keenlys (Canada)"],
-    liveProjects: 4,
-    clientCountries: ["🇺🇸 USA", "🇬🇧 UK", "🇨🇦 Canada", "🇩🇪 Germany", "🇧🇩 Bangladesh"],
-    languages: ["English (Fluent)", "Hindi/Urdu (Fluent)", "Bangla (Native)"],
-    education: "B.Sc. Mathematics — National University, Bangladesh",
-    availableFor: "Remote / Relocation — Full-time opportunities"
-};
-```
+> **Full-Stack Developer with 3+ years of hands-on experience building and shipping production-grade SaaS products for clients across the USA, UK, Canada, and Germany. Specialized in React/Next.js, Node.js, and PostgreSQL — delivering real-time features, payment integrations, and scalable architectures that serve real users globally.**
 
-> **Full-Stack Developer with 3+ years of hands-on experience building and shipping production-grade SaaS products for clients across the USA, UK, Canada, and Germany. Specialized in React/Next.js, Node.js, and PostgreSQL, with a strong track record of delivering real-time features, payment integrations, and scalable architectures that serve real users globally.**
+<table>
+<tr><td>💼</td><td><b>Role</b></td><td>Full-Stack Web Developer</td></tr>
+<tr><td>⏳</td><td><b>Experience</b></td><td>3+ Years in Production SaaS</td></tr>
+<tr><td>🏢</td><td><b>Current</b></td><td><a href="https://ummafoundation.org">Umma Foundation</a> — Brooklyn, NY, USA</td></tr>
+<tr><td>🌍</td><td><b>Clients in</b></td><td>🇺🇸 USA · 🇬🇧 UK · 🇨🇦 Canada · 🇩🇪 Germany · 🇧🇩 Bangladesh</td></tr>
+<tr><td>🚀</td><td><b>Live Projects</b></td><td>4 Production SaaS Applications</td></tr>
+<tr><td>🎓</td><td><b>Education</b></td><td>B.Sc. Mathematics — National University, Bangladesh</td></tr>
+<tr><td>🗣️</td><td><b>Languages</b></td><td>English (Fluent) · Hindi/Urdu (Fluent) · Bangla (Native)</td></tr>
+<tr><td>✅</td><td><b>Available</b></td><td>Remote / Relocation — Full-time Opportunities</td></tr>
+</table>
 
 ---
 
