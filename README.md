@@ -164,19 +164,31 @@ const oliullah = {
 
 <div align="center">
 <a href="https://github.com/oliullah05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliullah05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9&ring_color=6366f1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliullah05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliullah05&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=6366f1&text_color=57606a&ring_color=6366f1&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliullah05&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a&langs_count=8" />
 </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliullah05&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliullah05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=818cf8&point=c9d1d9&area=true&area_color=6366f1" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliullah05&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=24292f&sideLabels=24292f&currStreakNum=6366f1&dates=57606a&sideNums=24292f" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliullah05&theme=github-light&hide_border=true&color=24292f&line=6366f1&point=6366f1&area=true&area_color=e0e7ff" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliullah05/oliullah05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliullah05/oliullah05/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/oliullah05/oliullah05/output/github-snake.svg" width="95%" />
+  </picture>
 </div>
 
 ---
