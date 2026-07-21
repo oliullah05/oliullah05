@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Oliullah Bhuiyan - Full-Stack Web Developer" />
+<img src="https://raw.githubusercontent.com/oliullah05/oliullah05/main/banner.png" width="100%" alt="Oliullah Bhuiyan - Full-Stack Web Developer" />
 
 <br/>
 
