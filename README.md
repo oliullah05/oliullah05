@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://www.oliullahbhuiyan.com/oli/oliullah_bhuiyan.jpg" width="180" height="180" style="border-radius: 50%;" alt="Oliullah Bhuiyan" />
-
-### Hey there 👋 I'm
-
-# Oliullah Bhuiyan
-
-**Full-Stack Web Developer · SaaS Specialist**
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+Production-Grade+SaaS+for+Global+Clients;3%2B+Years+%7C+4+Live+Apps+%7C+Clients+in+5+Countries" alt="Typing SVG" /></a>
+<img src="./banner.png" width="100%" alt="Oliullah Bhuiyan - Full-Stack Web Developer" />
 
 <br/>
 
